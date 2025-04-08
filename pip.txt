@@ -1,0 +1,2 @@
+pytelegrambotapi
+speedtest-cli
